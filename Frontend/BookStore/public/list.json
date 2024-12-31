@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Book 1",
+        "price": 100,
+        "title":"SOme random title even i dont know",
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id": 2,
+        "name": "Book 2",
+        "price": 200,
+        "title":"SOme random title even i dont know",
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "name": "Book 3",
+        "price": 300,
+        "title":"SOme random title even i dont know",
+        "category":"SPorts",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Book 4",
+        "price": 400,
+        "title":"SOme random title even i dont know",
+        "category":"djcndejn",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id": 5,
+        "name": "Book 5",
+        "price": 500,
+        "title":"SOme random title even i dont know",
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name": "Book 6",
+        "price": 600,
+        "title":"SOme random title even i dont know",
+        "category":"dwhoifhweiol",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name": "Book 6",
+        "price": 600,
+        "title":"SOme random title even i dont know",
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/stack-colorful-books_1207614-22471.jpg?w=740"
+    }
+
+]
